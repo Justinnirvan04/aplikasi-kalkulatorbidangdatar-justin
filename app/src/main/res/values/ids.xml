@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView4" type="id" />
+    <item name="textView2" type="id" />
+    <item name="textView3" type="id" />
+    <item name="sisi_klm" type="id" />
+    <item name="textView4" type="id" />
+    <item name="textView5" type="id" />
+    <item name="kelpersegi" type="id" />
+    <item name="luaspersegi" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView7" type="id" />
+    <item name="textView8" type="id" />
+    <item name="textView9" type="id" />
+    <item name="textView10" type="id" />
+    <item name="tinggi_klm" type="id" />
+    <item name="sisi1_klm" type="id" />
+    <item name="alas_klm" type="id" />
+    <item name="sisi2_klm" type="id" />
+    <item name="textView11" type="id" />
+    <item name="textView12" type="id" />
+    <item name="kelsegitiga" type="id" />
+    <item name="luassegitiga" type="id" />
+</resources>
